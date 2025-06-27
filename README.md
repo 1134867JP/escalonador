@@ -18,6 +18,11 @@ Este projeto simula um algoritmo de Escalonamento com Múltiplas Filas utilizand
 - Escalonamento com Múltiplas Filas (Multi-level Queue Scheduling)
 - Política de escalonamento interna: HRRN (Highest Response Ratio Next)
 
+## Preparar Ambiente
+```bash
+pip install tabulate
+```
+
 ## Como Executar o Projeto
 
 1. Clone o repositório:
