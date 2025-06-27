@@ -7,6 +7,9 @@
 - Nycolas Fachi  
 - Ricardo Basso  
 - Ricardo Groth  
+## Link Explicação
+
+<a target="_blank" rel="noopener noreferrer" href='https://www.youtube.com/watch?v=sGFD35T_DZE'>Clique aqui para acessar o Video</a>
 
 ## Descrição do Projeto
 Este projeto simula um algoritmo de Escalonamento com Múltiplas Filas utilizando a política HRRN (Highest Response Ratio Next) para selecionar a próxima tarefa a ser executada em cada fila. A simulação busca representar cenários reais de sistemas operacionais que precisam lidar com múltiplos processos de diferentes prioridades.
